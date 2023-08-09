@@ -5,6 +5,7 @@
         static void Main(string[] args)
         {
             Console.WriteLine("Starting a project");
+            Console.ReadLine();
         }
     }
 }
